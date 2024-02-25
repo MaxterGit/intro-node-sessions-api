@@ -1,0 +1,19 @@
+{
+  "name": "sessions-api",
+  "version": "1.0.0",
+  "description": "Una App que retorna sesiones de conferencia",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxterGit/intro-node-sessions-api.git"
+  },
+  "author": "Javier Nunez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaxterGit/intro-node-sessions-api/issues"
+  },
+  "homepage": "https://github.com/MaxterGit/intro-node-sessions-api#readme"
+}
