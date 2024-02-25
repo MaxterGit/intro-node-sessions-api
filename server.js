@@ -1,1 +1,2 @@
-AuthenticatorAssertionResponse
+'use strict'
+
